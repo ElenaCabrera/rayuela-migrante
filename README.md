@@ -2,7 +2,7 @@
 
 Human data visualization de la migración de un hilo familiar
 ***
- img::./rayuela-migrante/37051376870_ef7a26a40a_o.jpg 
+ ![Rayuela migrante en Medialab-Prado](/rayuela-migrante/37051376870_ef7a26a40a_o.jpg) 
  
 ## ¿Qué es?
 
