@@ -30,6 +30,6 @@ A la primera persona le siguien las siguientes hasta que se finalice la muestra 
 
 Se observa o se graba este flujo desde una posición elevada.
 
-#Fechas en las que se ha realizado
+# Fechas en las que se ha realizado
 
 25 de septiembre de 2017, en Medialab-Prado, dentro del taller de visualización de datos Visualizar17.
