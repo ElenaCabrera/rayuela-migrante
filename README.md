@@ -2,7 +2,7 @@
 
 Human data visualization de la migración de un hilo familiar
 ***
- ![Rayuela migrante en Medialab-Prado](/rayuela-migrante/37051376870_ef7a26a40a_o.jpg) 
+ ![Rayuela migrante en Medialab-Prado](/37051376870_ef7a26a40a_o.jpg) 
  
 ## ¿Qué es?
 
@@ -36,4 +36,4 @@ Se observa o se graba este flujo desde una posición elevada.
 
 ## Fechas en las que se ha realizado
 
-25 de septiembre de 2017, en Medialab-Prado, dentro del taller de visualización de datos Visualizar17. Después de hacer la Human Data Visualization se pidió a los participantes que pintaran con tiza su viaje.
+25 de septiembre de 2017, en Medialab-Prado, dentro del taller de visualización de datos ![Visualizar17] (http://medialab-prado.es/article/visualizar17-migraciones). Después de hacer la Human Data Visualization se pidió a los participantes que pintaran con tiza su viaje.
